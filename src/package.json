@@ -1,0 +1,23 @@
+{
+  "name": "classwork-dynamodb-crud-op",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/cors": "^5.0.0",
+    "aws-sdk": "^2.1618.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "koa": "^2.15.3",
+    "koa-bodyparser": "^4.4.1",
+    "koa-router": "^12.0.1",
+    "nodemon": "^3.1.0"
+  }
+}

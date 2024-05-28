@@ -1,0 +1,5 @@
+src/node_modules
+src/.env
+src//client/node_modules
+src/client/package-lock.json
+src/client/package.json
